@@ -1,0 +1,223 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f881e3b34693a96cd3d9e20d6aeabae98757359",
+    "jarFileModificationDate": "2015-12-22T17:30:55-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7bc47cd6071867b2b67f81191942010ec6f1cb19",
+    "jarFileModificationDate": "2014-09-09T17:00:42-05:00",
+    "location": "/System/Library/Java/Extensions/MRJToolkit.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fdf4c7ac961f2071179cb93318cc58765df4ffe0",
+    "jarFileModificationDate": "2015-12-22T17:30:58-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9cb165148c4f115e371358123c466b966b075e13",
+    "jarFileModificationDate": "2015-12-22T17:30:55-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "20273e21a46c41ebbe3a8af61aa456fc99fb4dfa",
+    "jarFileModificationDate": "2015-12-22T17:30:54-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "522d2b882355f9151e9b39e65658987d69a45f77",
+    "jarFileModificationDate": "2015-12-22T17:30:55-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "163968c3bb07b2ddbfaafee0c053d7e855756451",
+    "jarFileModificationDate": "2015-12-22T17:30:56-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a18432cb06bfff7c1f9cbe002831cec9dceb3511",
+    "jarFileModificationDate": "2015-12-22T17:30:54-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0623829ac021695fe09e9358af9d914f0fbb0a44",
+    "jarFileModificationDate": "2015-12-22T17:30:54-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e32b802d340a01b593e4f1daf310618e40729a64",
+    "jarFileModificationDate": "2015-12-22T17:30:55-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b852387f31ef0e1d36c79dcdfb477032841c185c",
+    "jarFileModificationDate": "2015-12-22T17:30:54-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "791b43ce210522678cee083a73867a2e6ff8d320",
+    "jarFileModificationDate": "2015-12-22T17:30:54-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "52515ac6deab634f3495fd724dea643ee442b8fd",
+    "jarFileModificationDate": "2015-12-22T17:30:55-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bb5a255ec97229c86a0ef69ebfabc7f2d807063e",
+    "jarFileModificationDate": "2015-12-22T15:03:37-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "82a0f9c5cbc2b79bdb6cfe80487691e232b26f9c",
+    "jarFileModificationDate": "2015-12-22T17:30:54-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c3445170fb167a38d5cdc345e445f3aba78afd76",
+    "jarFileModificationDate": "2015-12-22T17:30:55-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c3126cdf0d4baeac45dffbe8589fb03a8110c446",
+    "jarFileModificationDate": "2015-12-22T17:30:54-06:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/charsets.jar",
+    "javaRuntime": true
+  }
+]
